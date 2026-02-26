@@ -1,0 +1,94 @@
+code,instructor,year,section,group,students,L,T,P,elective,term
+Statistics,Dr. Ramesh Athe,1,CSE,CSE-A;CSE-B,200,2,1,0,FALSE,pre
+Introduction to DS and AI,Dr. Abdul Wahid,1,CSE,CSE-A;CSE-B,200,2,1,0,FALSE,pre
+Probability,Dr. Chinmayananda,1,ECE,ECE;DSAI,150,2,1,0,FALSE,pre
+Digital Design,Dr. Prakash Pawar,1,DSAI,DSAI,80,2,0,1,FALSE,pre
+Problem Solving through Programming,Dr. Sunil P V,1,CSE,CSE-A,100,2,0,1,FALSE,full
+Problem Solving through Programming,Dr. Sunil C K,1,CSE,CSE-B,100,2,0,1,FALSE,full
+English Language and Communication,Dr. Rajesh NS,1,CSE,CSE-A,200,2,0,0,FALSE,full
+English Language and Communication,Dr. Rajesh NS,1,CSE,CSE-B,100,2,0,0,FALSE,full
+Differential Equations,Dr. Anand Barangi,2,CSE,CSE-A;CSE-B,170,2,1,0,FALSE,pre
+Multivariate Calculus,Dr. Somen B,2,DSAI,DSAI;ECE,150,2,1,0,FALSE,pre
+Operating System,Dr. Suvadip Hazra,2,CSE,CSE-A,80,2,1,0,FALSE,pre
+Software Design Tools and Techniques,Dr. Sunil P V,2,CSE,CSE-A,80,2,0,1,FALSE,full
+Software Design Tools and Techniques,Dr. Vivekraj,2,CSE,CSE-B,80,2,0,1,FALSE,full
+Design & Analysis of Algorithms,Dr. Malay,2,CSE,CSE-A,80,2,0,1,FALSE,full
+Design & Analysis of Algorithms,Dr. Pramod Y,2,CSE,CSE-B,80,2,0,1,FALSE,full
+Computer Networks,Dr. Prabhu Prasad B M,2,CSE,CSE-A,80,2,1,0,FALSE,full
+Computer Networks,Dr. Prabhu Prasad B M,2,CSE,CSE-B,80,2,1,0,FALSE,full
+Statistics for Computer Science,Dr. Sunil C K,3,CSE,CSE-A,70,2,1,0,FALSE,full
+Statistics for Computer Science,Dr. Pavan,3,CSE,CSE-B,70,2,1,0,FALSE,full
+Computer Networks,Dr. Animesh Roy,3,CSE,CSE-A,70,2,0,1,FALSE,full
+Computer Networks,Dr. Dibyajyothi,3,CSE,CSE-B,70,2,0,1,FALSE,full
+Artificial Intelligence,Dr. Krishnendu,3,CSE,CSE-A,60,2,1,0,FALSE,full
+Artificial Intelligence,Dr. Girish,3,CSE,CSE-B,70,2,1,0,FALSE,full
+Environmental Studies,TBD,3,CSE,CSE-A;CSE-B,140,0,0,0,FALSE,full
+Economics/IET,Dr. Amushree Kini,1,ECE,ECE;DSAI,150,2,0,0,FALSE,full
+Random Process,Dr. Chinmayananda,2,ECE,ECE,80,2,1,0,FALSE,pre
+Signals & Systems,Dr. Somen B,2,ECE,ECE,60,2,1,0,FALSE,post
+Semiconductor Devices,Dr. Pankaj Kumar,2,ECE,ECE,60,2,0,0,FALSE,full
+Analog Electronics Circuits,Dr. Rajesh Kumar,2,ECE,ECE,60,2,0,0,FALSE,full
+Machine Learning,Dr. Deepak K T,2,ECE,ECE,60,2,1,0,FALSE,full
+Machine Learning,Dr. Utkarsh Khaire,2,DSAI,DSAI,60,2,0,1,FALSE,full
+Digital Signal Processing,Dr. Sibasankar Padhy,3,ECE,ECE,60,2,0,1,FALSE,full
+Introduction to VLSI Design,Dr. Jagdish D.N,3,ECE,ECE,60,2,1,0,FALSE,full
+Introduction to Algorithms,Dr. Jagdish R.B,3,ECE,ECE,60,2,1,0,FALSE,full
+Happiness & Wellbeing,Dr. Chandrika Kamath,3,ECE,ECE,60,2,0,0,FALSE,full
+Statistical Programming,Dr. Ramesh Athe,2,DSAI,DSAI,60,1,0,2,FALSE,full
+Data Handling and Visualization,Dr. Siddharth,2,DSAI,DSAI,60,2,0,1,FALSE,full
+Artificial Intelligence,Dr. Animesh Chaturvedi,2,DSAI,DSAI,60,2,1,0,FALSE,full
+Computer Communication Networks,Dr. Shirshendu Layek,3,DSAI,DSAI,60,2,0,1,FALSE,full
+Algorithms and Artificial Intelligence,Dr. Animesh Chaturvedi,3,DSAI,DSAI,60,3,1,0,FALSE,full
+Machine Learning,Dr. Siddharth,3,DSAI,DSAI,60,3,0,2,FALSE,full
+Introduction to quantam Physics,Dr. Ravishankar,1,CSE,CSE-A;CSE-B;ECE;DSAI,20,2,1,0,1,full
+Linux for Engineers,Dr. Vivekraj,1,CSE,CSE-A;CSE-B;ECE;DSAI,20,2,1,0,1,full
+Fundamentals of Computing,Dr. Mallikarjun Kande,1,CSE,CSE-A;CSE-B;ECE;DSAI,20,2,1,0,1,full
+introduction to cyber security,Dr. Girish Revadigar,1,ECE,CSE-A;CSE-B;ECE;DSAI,120,2,1,0,1,full
+Computational musicology for hindustani music,Dr. Chandrika Kamat,1,ECE,CSE-A;CSE-B;ECE;DSAI,20,1,1,0,1,full
+Kannada Kali-Nali,Dr. Anand Barangi,1,ECE,CSE-A;CSE-B;ECE;DSAI,20,2,1,0,1,full
+Leveraging IT for Better Life,Dr. Rajesh N S,1,DSAI,CSE-A;CSE-B;ECE;DSAI,20,2,1,0,1,full
+Basics of Design,Dr. Sandesh P,1,DSAI,CSE-A;CSE-B;ECE;DSAI,20,2,1,0,1,full
+Holistic Personality Development,TBD,1,DSAI,CSE-A;CSE-B;ECE;DSAI,20,1,1,0,1,full
+Electronics Systems design-1,Dr. Pankaj Kumar,2,CSE,CSE-A;CSE-B;ECE;DSAI,40,2,1,0,1,full
+Introduction of RFIC design,Dr. Rajesh Kumar,2,CSE,CSE-A;CSE-B;ECE;DSAI,20,2,1,0,1,full
+Introduction to embedded signals,Dr. Sibasankar Padhy,2,ECE,CSE-A;CSE-B;ECE;DSAI,40,2,1,0,1,full
+Electronic Systems engineering,Dr. Mallikarjun Kande,2,ECE,CSE-A;CSE-B;ECE;DSAI,40,2,1,0,1,full
+Data Science with Python,Dr. Abdul Wahid,2,DSAI,CSE-A;CSE-B;ECE;DSAI,40,2,1,0,1,full
+User Interaction and expirence design,Dr. Sandesh P,2,DSAI,CSE-A;CSE-B;ECE;DSAI,40,2,1,0,1,full
+2D Computer Graphics,Dr. Vivekraj,2,DSAI,CSE-A;CSE-B;ECE;DSAI,30,2,1,0,1,full
+Problem Solving,Dr. Sunil C K,1,ECE,ECE,70,2,0,1,FALSE,full
+Problem solving through Programming,Dr. Sunil P V,1,DSAI,DSAI,80,2,0,1,FALSE,full
+Compiler Design,Dr. Pavan Kumar,3,CSE,CSE-A;CSE-B;ECE;DSAI,30,2,1,0,1,full
+Graphs and Social Network,Dr. Utkarsh K,3,CSE,CSE-A;CSE-B;ECE;DSAI,18,2,1,0,1,full
+Advanced Algorithm Design,Dr. Suvadip,3,CSE,CSE-A;CSE-B;ECE;DSAI,168,2,1,0,1,full
+Full Stack Development,Dr. Manjunath K V,3,ECE,CSE-A;CSE-B;ECE;DSAI,127,2,0,1,2,full
+Internet of Things,Dr. Prakash Pawar,3,ECE,CSE-A;CSE-B;ECE;DSAI,35,2,0,1,2,full
+Semiconductor Device Modeling,Dr. Pankaj Kumar,3,ECE,CSE-A;CSE-B;ECE;DSAI,71,2,1,0,1,full
+Cryptography & Information Security,Dr. Rajendra Hegadi,3,DSAI,CSE-A;CSE-B;ECE;DSAI,39,2,1,0,1,full
+User Interactions and Experience Design,Dr Sandesh P,3,DSAI,CSE-A;CSE-B;ECE;DSAI,118,2,0,1,2,full
+AI in Biomedical Signal Interpretation,Dr. Sibasankar Padhy,3,DSAI,CSE-A;CSE-B;ECE;DSAI,26,2,0,1,2,full
+Parallel computing,Dr. Pramod,3,DSAI,CSE-A;CSE-B;ECE;DSAI,24,2,0,1,2,full
+Digital Design,Dr. Dr. Jagdish R.B,1,ECE,ECE,70,2,0,1,FALSE,full
+Cybersecurity Techniques,Dr. Rajendra Hegadi,4,CSE,CSE-A;CSE-B;ECE;DSAI,100,2,1,0,1,full
+Reinforcement Learning,Dr. Dibyadyuti,4,CSE,CSE-A;CSE-B;ECE;DSAI,55,2,1,0,1,full
+Health Care Data Analytics,Dr. Girish G N,4,CSE,CSE-A;CSE-B;ECE;DSAI,75,2,1,0,1,full
+Generative AI,Dr. Chimnayananda A,4,CSE,CSE-A;CSE-B;ECE;DSAI,125,2,1,0,2,full
+Hands on CMOS Analog and RF Circuit Design,Dr. Rajesh Kumar,4,ECE,CSE-A;CSE-B;ECE;DSAI,39,2,1,0,2,full
+Quantum AI - Quantum Gen AI - Generative Models on Quantum Platform,Dr. Aswath Babu,4,ECE,CSE-A;CSE-B;ECE;DSAI,57,2,1,0,2,full
+DevOps and its Applications,Dr. Shirishkumar Layek,4,ECE,CSE-A;CSE-B;ECE;DSAI,77,2,1,0,3,full
+Agentic AI,Dr. Sunil Saumya,4,ECE,CSE-A;CSE-B;ECE;DSAI,73,2,1,0,3,full
+Information Retrieval,Dr. Krishnendu,4,ECE,CSE-A;CSE-B;ECE;DSAI,48,2,1,0,3,full
+Cloud SRE and AI,Dr. Malay Kumar,4,DSAI,CSE-A;CSE-B;ECE;DSAI,17,2,1,0,3,full
+AI for Cybersecurity,Dr. Abdul Wahid,4,DSAI,CSE-A;CSE-B;ECE;DSAI,47,2,1,0,4,full
+Finance and Accounting,Dr. Anushree,4,DSAI,CSE-A;CSE-B;ECE;DSAI,150,2,1,0,4,full
+Operations Research,Dr. Vivekraj V K,4,DSAI,CSE-A;CSE-B;ECE;DSAI,0,2,1,0,4,full
+Neural Networks,Dr. Jagadisha D N,4,DSAI,CSE-A;CSE-B;ECE;DSAI,9,2,1,0,4,full
+Statistics,Dr. Ramesh Athe,1,CSE,ECE;DSAI,200,2,1,0,FALSE,post
+Introduction to DS and AI,Dr. Abdul Wahid,1,CSE,ECE;DSAI,200,2,1,0,FALSE,post
+Probability,Dr. Chinmayananda,1,ECE,CSE-A;CSE-B,150,2,1,0,FALSE,post
+Differential Equations,Dr. Anand Barangi,2,CSE,ECE;DSAI,170,2,1,0,FALSE,post
+Multivariate Calculus,Dr. Somen B,2,DSAI,CSE-A;CSE-B,150,2,1,0,FALSE,post
+Operating System,Dr. Suvadip Hazra,2,CSE,CSE-B,80,2,1,0,FALSE,post
+Digital Design,Dr. Prakash Pawar,1,CSE,CSE-A,80,2,0,1,FALSE,post
+Digital Design,Dr. Jagdish R.B,1,CSE,CSE-B,80,2,0,1,FALSE,post
+Digital Design,Dr. Jagdish R.B,1,ECE,ECE,80,2,0,1,FALSE,pre
